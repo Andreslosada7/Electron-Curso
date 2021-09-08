@@ -1,0 +1,24 @@
+{
+  "name": "app01-intro",
+  "version": "1.0.0",
+  "description": "Aplicación de escritorio multiplataforma en Electron",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Andreslosada7/Electron-Curso.git"
+  },
+  "keywords": [
+    "Electron",
+    "escritorio",
+    "multiplataforma"
+  ],
+  "author": "Andres Felipe Losada Ortiz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Andreslosada7/Electron-Curso/issues"
+  },
+  "homepage": "https://github.com/Andreslosada7/Electron-Curso#readme"
+}
